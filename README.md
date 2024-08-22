@@ -22,3 +22,8 @@ source env/bin/activate  # On Windows use `env\Scripts\activate`
 
 bash
 pip install torch transformers datasets peft optimum bitsandbytes
+
+4. 
+The notebook will load the pre-trained model and tokenizer, apply LoRA for PEFT, optimize the model with BetterTransformer, define training arguments, create a Trainer instance, train the model, revert to its original state, and save the fine-tuned model and tokenizer.
+Output: The trained model and tokenizer will be saved in the specified directory (./name).
+Note: This project is for educational purposes only need to run this notebook
