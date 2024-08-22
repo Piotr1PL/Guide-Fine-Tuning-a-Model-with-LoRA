@@ -3,7 +3,7 @@
 This guide describes how to fine-tune a sequence classification model using LoRA (Low-Rank Adaptation) with the Transformers, PEFT, and BetterTransformer libraries.
 
 Prerequisites
-Python 3.8+
+Python 3.10+
 CUDA: Ensure you have CUDA installed if you plan to use GPU acceleration.
 Setup Instructions
 
