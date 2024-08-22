@@ -10,8 +10,7 @@ Setup Instructions
 1. Clone the Repository
 
 bash
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git https://github.com/Piotr1PL/Guide-Fine-Tuning-a-Model-with-LoRA.git
 
 2. Create a Virtual Environment (Optional)
 
