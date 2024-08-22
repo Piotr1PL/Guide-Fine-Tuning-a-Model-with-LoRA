@@ -16,7 +16,9 @@ git https://github.com/Piotr1PL/Guide-Fine-Tuning-a-Model-with-LoRA.git
 
 bash
 python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
+source env/bin/activate  
+
+# On Windows use `env\Scripts\activate`
 
 3. Install Required Libraries
 
